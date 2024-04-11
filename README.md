@@ -1,2 +1,2 @@
-# GenAi
-GenAi using Langchain and Gemini
+Gen Ai
+Built RAG model using Langchain And Gemini.
