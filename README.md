@@ -1,2 +1,1 @@
-#Gen Ai
-Built RAG model using Langchain And Gemini.
+Built RAG system using Langchain And Gemini that accepts pdf file as data source.
